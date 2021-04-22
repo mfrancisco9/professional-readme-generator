@@ -113,7 +113,7 @@ ${response.contributing}
 ## Tests <a name="tests"></a>
 ${response.tests}
 
-# License <a name="license></a>
+# License <a name="license"></a>
 This projected is ${response.license}
 
 # Questions <a name="questions">
@@ -127,7 +127,7 @@ inquirer
     .then(response => {
         console.log(response.license)
         let md = generateReadMe(response);
-        fs.writeFile(`${response.projectName.toLowerCase().split('').join('')}.md`, md, (err) =>
+        fs.writeFile(`${response.projectName.toLowerCase().split(' ').join('')}.md`, md, (err) =>
     err ? console.error(err) : console.log('Success!'))
     });
 }

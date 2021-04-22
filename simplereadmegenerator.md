@@ -1,4 +1,4 @@
-# ${response.projectName} ${licenseTag}
+# Simple Readme Generator [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Table of contents
 1. [Description](#description)
@@ -10,22 +10,22 @@
 7. [Questions](#questions)
 
 ## Description: <a name="description"></a>
-${response.description}
+This creates a professional readme
 
 ## Installation <a name="installation"></a>
-${response.installation}
+Open the index.js
 
 ## Usage <a name="usage"></a>
-${response.usage}
+This project 
 
 ## Contributing <a name="contributing"></a>
-${response.contributing}
+contributing
 
 ## Tests <a name="tests"></a>
-${response.tests}
+testing
 
 # License <a name="license"></a>
-This projected is ${response.license}
+This projected is GPLv3
 
 # Questions <a name="questions">
-For any questions relating to this project, please contact me via [Github](http://github.com/${response.username}) or email me directly at [${response.email}](${response.email}).
+For any questions relating to this project, please contact me via [Github](http://github.com/mfrancisco9) or email me directly at [m.francisco9@gmail.com](m.francisco9@gmail.com).
