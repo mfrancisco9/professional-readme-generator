@@ -1,4 +1,4 @@
-# ${response.projectName}
+# ${response.projectName} #{licenseTag}
 
 # Table of contents
 1. [Description](#description)
@@ -25,7 +25,7 @@ ${response.contributing}
 ${response.tests}
 
 # License <a name="license></a>
-${response.license}
+This projected is ${response.license}
 
 # Questions <a name="questions">
 For any questions relating to this project, please contact me via [Github](http://github.com/${response.username}) or email me directly at [${response.email}](${response.email}).
