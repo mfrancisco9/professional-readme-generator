@@ -1,15 +1,4 @@
-#${response.projectName}
-
-Table of Contents |
-------------------|
-Description|
-Installation|
-Usage|
-Contributing|
-Tests|
-License|
-Questions|
-
+# ${response.projectName}
 
 # Table of contents
 1. [Description](#description)
@@ -21,16 +10,22 @@ Questions|
 7. [Questions](#questions)
 
 ## Description: <a name="description"></a>
+${response.description}
 
 ## Installation <a name="installation"></a>
+${response.installation}
 
 ## Usage <a name="usage"></a>
+${response.usage}
 
 ## Contributing <a name="contributing"></a>
+${response.contributing}
 
 ## Tests <a name="tests"></a>
+${response.tests}
 
 # License <a name="license></a>
+${response.license}
 
 # Questions <a name="questions">
 For any questions relating to this project, please contact me via [Github](http://github.com/${response.username}) or email me directly at [${response.email}](${response.email}).
