@@ -25,7 +25,7 @@ If you would like to contribute to the project, please contact me on GitHub. Mor
 The project began with simply testing if inquirer was installed and running, using a basic prompt. Next, an array of questions (the const `questions`) was created and used for the prompt. After it was confirmed that these questions worked without any issues, code to write a file based on the responses was created. Once this worked, a template was created for the markdown file as well as a function to  provide a license tag based on the selected license. The final product was tested to make sure that issues such as special characters, capitals, and blank strings would not cause issues.
 
 # License <a name="license"></a>
-This projected is GPLv2
+This project is licensed with GPLv2.
 
 # Questions <a name="questions">
 For any questions relating to this project, please contact me via [Github](http://github.com/mfrancisco9) or email me directly at [m.francisco9@gmail.com](m.francisco9@gmail.com).

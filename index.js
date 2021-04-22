@@ -114,7 +114,7 @@ ${response.contributing}
 ${response.tests}
 
 # License <a name="license"></a>
-This projected is ${response.license}
+This project is licensed with ${response.license}.
 
 # Questions <a name="questions">
 For any questions relating to this project, please contact me via [Github](http://github.com/${response.username}) or email me directly at [${response.email}](${response.email}).`
