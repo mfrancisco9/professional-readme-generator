@@ -1,4 +1,4 @@
-# ${response.projectName} #{licenseTag}
+# ${response.projectName} ${licenseTag}
 
 # Table of contents
 1. [Description](#description)
