@@ -1,4 +1,4 @@
-#{response.projectName}
+#${response.projectName}
 
 Table of Contents |
 ------------------|
@@ -18,16 +18,19 @@ Questions|
 4. [Contributing](#contributing)
 5. [Tests](#tests)
 6. [License](#license)
-7 [Questions](#questions)
+7. [Questions](#questions)
 
-
-
-## Description: <a name="introduction></a>
-lorum ipsum
-lorum ipsum
-lorum ipsum
+## Description: <a name="description"></a>
 
 ## Installation <a name="installation"></a>
 
-
 ## Usage <a name="usage"></a>
+
+## Contributing <a name="contributing"></a>
+
+## Tests <a name="tests"></a>
+
+# License <a name="license></a>
+
+# Questions <a name="questions">
+For any questions relating to this project, please contact me via [Github](http://github.com/${response.username}) or email me directly at [${response.email}](${response.email}).
